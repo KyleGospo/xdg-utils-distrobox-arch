@@ -31,7 +31,7 @@ source=(#https://portland.freedesktop.org/download/$_pkgname-$pkgver.tar.gz
 #          'f5c09cc10d7b88c2033392efd4179da65a1f47b1'
 #          '32d4282c2e6c7345ddf04016c91f0defbf88b356')
 sha256sums=('SKIP'
-            '550a8db792bb810168583be02e0c9e665a7a6ce245b48424188be235e35d4799')
+            '0ea10120cd6e92b906fe5b9db075fb867dafac46ba4c0acf96e825fed50eb304')
 #validpgpkeys=('8B75CA7811367175D05F3B03C43570F80CC295E6') # "Per Olofsson <pelle@pqz.se>"
 
 pkgver() {
